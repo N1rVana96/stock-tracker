@@ -109,3 +109,5 @@ errors and no database connection required.
 2. What is the difference between `@Mock` and `@MockBean`?
 3. Why use `verify(stockRepository, never()).save(any())` in the duplicate test?
 4. What does `jsonPath("$[0].symbol")` mean — what does `$` refer to?
+
+[![CI](https://github.com/N1rVana96/stock-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/N1rVana96/stock-tracker/actions/workflows/ci.yml)
