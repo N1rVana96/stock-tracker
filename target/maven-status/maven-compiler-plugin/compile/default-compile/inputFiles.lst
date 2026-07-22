@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/StockApplication.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/controller/GlobalExceptionHandler.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/controller/PriceController.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/controller/StockController.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/dto/AddPriceRequest.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/dto/CreateStockRequest.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/dto/StockResponse.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/model/HistoricalPrice.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/model/Stock.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/repository/HistoricalPriceRepository.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/repository/JdbcHistoricalPriceRepository.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/repository/JdbcStockRepository.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/repository/StockRepository.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/service/StockService.java
+/workspaces/codespaces-blank/06-testing/src/main/java/com/stocks/service/StockServiceImpl.java
